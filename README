@@ -1,0 +1,3 @@
+Elementrix es un videojuego hecho en java utilizando Libgdx, es un videojuego tipo puzzle donde debes presionar las distintas esferas para poder obtener puntos.
+
+El proyecto contiene las distintas fuentes para poder ejecutar en las distintas paltaformas, Android, Desktop, y html.
