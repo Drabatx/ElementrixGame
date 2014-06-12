@@ -1,0 +1,178 @@
+
+images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Splash
+  rotate: false
+  xy: 5, 5
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+PauseBack
+  rotate: false
+  xy: 5, 490
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+BackScore
+  rotate: false
+  xy: 330, 5
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+BackMadera
+  rotate: false
+  xy: 655, 5
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+Backgroundwi
+  rotate: false
+  xy: 330, 490
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+Backgroundw
+  rotate: false
+  xy: 655, 490
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+barrah
+  rotate: false
+  xy: 5, 975
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+barrav
+  rotate: false
+  xy: 980, 5
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 74, 975
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Atras
+  rotate: false
+  xy: 111, 975
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+images2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Backgroundfi
+  rotate: false
+  xy: 5, 5
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+Backgrounde
+  rotate: false
+  xy: 5, 490
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 330, 5
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+Efecto1
+  rotate: false
+  xy: 655, 5
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 655, 202
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+sonido
+  rotate: false
+  xy: 655, 335
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 330, 490
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+salir
+  rotate: false
+  xy: 330, 623
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+inicio
+  rotate: false
+  xy: 330, 756
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 852, 5
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Viento
+  rotate: false
+  xy: 916, 202
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+trueno
+  rotate: false
+  xy: 916, 335
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 330, 889
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 431, 889
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
